@@ -39,5 +39,5 @@ This ongoing project focuses on building a secure and efficient two-factor authe
 
 Clone the repository:
 ```sh
-git clone https://github.com/your-username/2fa-authentication.git
-cd 2fa-authentication
+git clone https://github.com/Vishu011/2fa_authentication.git
+cd 2fa_authentication
